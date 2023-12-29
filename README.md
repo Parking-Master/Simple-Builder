@@ -86,7 +86,11 @@ The Forum is one of the best ways to get in contact and get quick help on any is
 <a href="https://forum.bdr.uk.to"><kbd>Visit the forum &rightarrow;</kbd></a>
 
 ## Cookies, Privacy, Terms of Use
-If you're curious or cautious about how we handle your information before signing up, we recommend you go over the <a href="https://builder.serveo.net/privacy">Privacy Policy</a>
+To view how we collect, use, and store cookie data on your computer, visit our <a href="https://builder.serveo.net/cookies">Cookie Policy</a>.
+
+If you're curious or cautious about how we handle your information/data before signing up, we recommend you go over our <a href="https://builder.serveo.net/privacy">Privacy Policy</a>.
+
+If you want to know commericial uses, freedom of our project, or what happens to users who violate our terms, you should look at our <a href="https://builder.serveo.net/terms">Terms of Service</a>.
 
 # License
 Simple Builder is licensed under the GNU General Public License (GPL).

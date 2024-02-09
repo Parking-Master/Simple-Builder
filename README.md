@@ -90,7 +90,7 @@ To view how we collect, use, and store cookie data on your computer, visit our <
 
 If you're curious or cautious about how we handle your information/data before signing up, we recommend you go over our <a href="https://builder.serveo.net/privacy">Privacy Policy</a>.
 
-If you want to know commericial uses, freedom of our project, or what happens to users who violate our terms, you should look at our <a href="https://builder.serveo.net/terms">Terms of Service</a>.
+If you want to know commercial uses, freedom of our project, or what happens to users who violate our terms, you should look at our <a href="https://builder.serveo.net/terms">Terms of Service</a>.
 
 # License
 Simple Builder is licensed under the GNU General Public License (GPL).

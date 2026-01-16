@@ -1,5 +1,5 @@
 # Simple Builder
-<img src="https://builder.serveo.net/favicon.ico" width="200px">
+<img src="https://builders.pagekite.me/favicon.ico" width="200px">
 The world's most simple website builder.
 <br>
 Simple Builder offers 9 different ways to build your website in seconds. Make your website advanced, but build it simply.
